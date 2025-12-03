@@ -1,0 +1,8 @@
+,soil nutrient level by soil type,,,
+soil type,N (kg/ha),P,K,S
+black soil,180,35,280,22
+red soil,160,28,220,18
+laterite soil,140,18,150,12
+alluvial soil,220,42,320,28
+dessert soil,80,8,100,5
+forest soil,200,32,300,25

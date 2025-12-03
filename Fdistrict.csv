@@ -1,0 +1,17 @@
+,,,,district level(2023-24) with soil nutrient status,,,,,,,,
+state,district,year,urea(100 MT),DAP,NPK,MOP,SSP,Other P Ferts,Avg. soil N(kg/ha),Avg. soil P,Avg. soil K,primary crop
+punjab,ludhiana,2023-24,185,42,28,15,8,5,245,35,210,"wheat,rice"
+punjab,amritsar,2023-24,142,32,21,12,6,4,220,30,195,"wheat,rice"
+punjab,jalndhar,2023-24,168,38,24,14,7,5,235,32,205,"wheat,rice,cotton"
+haryana,hisar,2023-24,95,25,18,10,5,3,215,28,185,"wheat,rice"
+haryana,rohtak,2023-24,120,32,22,13,6,4,225,30,195,"wheat,jowar"
+haryana,jind,2023-24,85,22,16,9,4,3,210,26,180,"wheat,bajra"
+u.p.,agra,2023-24,280,65,45,22,12,7,180,25,160,"wheat,cane,rice"
+u.p.,lucknow,2023-24,210,50,35,18,9,5,190,28,175,"wheat,rice,maize"
+u.p.,kanpur,2023-24,195,45,32,16,8,6,195,26,170,"wheat,cane,rice"
+maharasthra,nashik,2023-24,145,35,22,12,6,3,150,20,140,"cane,jowar,cotton"
+maharasthra,pune,2023-24,120,28,18,10,5,3,160,22,150,"cane,jowar,cotton"
+maharasthra,aurangabad,2023-24,110,25,16,9,4,2,140,16,135,"cotton,jowar,groundnut"
+karnataka,belgaum,2023-24,105,24,15,8,4,2,140,16,130,"cotton,jowar,groundnut"
+karnataka,mysore,2023-24,95,22,14,7,3,2,155,18,145,"coffee,cane,cotton"
+karnataka,tumkur,2023-24,88,20,12,6,3,2,148,17,138,"cane,jowar,cotton"
